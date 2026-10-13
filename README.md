@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Vergara 👋
+# Opa, eu sou o Lucas Vergara 
 
 Estudante do **8º semestre de Ciência da Computação**, em São Paulo.
 
