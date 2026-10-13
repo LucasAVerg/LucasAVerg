@@ -30,4 +30,4 @@ Tecnologias que já utilizei em projetos:
 API REST para gestão de pedidos, construída em arquitetura de camadas (Controller, Service e Repository) com **FastAPI** e **PostgreSQL** e totalmente containerizada com **Docker Compose**. Trabalho em grupo da disciplina Desenvolvimento de Sistemas Distribuídos.
 
 ### Chatbot para clínica oftalmológica
-Chatbot de WhatsApp em **Node.js** que usa um modelo de linguagem local (**Ollama**) para fazer triagem de pacientes, tirar dúvidas e encaminhar agendamentos, com transferência para atendimento humano quando necessário. Projeto individual, desenvolvido sob encomenda.
+Chatbot de WhatsApp em **Node.js** que usa um modelo de linguagem local (**Ollama**) para fazer triagem de pacientes, tirar dúvidas e encaminhar agendamentos, com transferência para atendimento humano quando necessário. Projeto individual,
